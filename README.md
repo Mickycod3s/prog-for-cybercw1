@@ -1,11 +1,10 @@
 Programming for Cybersecurity Coursework 1
 -----
 
-- Name: Michael McClay
-- Campus: New College Lanarkshire
-- Banner ID: B01886622
+Name: Michael McClay        
+Campus: New College Lanarkshire            
+Banner ID: B01886622             
 
-About This Coursework
 This repository contains the five Python exercises for programming coursework 1.
 
 Tasks
@@ -45,21 +44,18 @@ Branch: security-incident-manager
 Branch: cyber-security-utilities
 
 
-Technologies Used:
-Python, 
-Visual Studio Code,
+Technologies Used:            
+Python              
+Visual Studio Code          
 GitHub
 
-Repository Branches:
-main
-security-tool,
-security-event-logger,
-ip-address-validator,
-security-incident-manager,
-cyber-security-utilities
+Repository Branches:           
+main         
+security-tool          
+security-event-logger            
+IP-address-validator           
+security-incident-manager            
+cyber-security-utilities          
 
-Running the Programs:
-Clone the GitHub repository.
-Switch to the branch containing the exercise you want to run.
-Open the Python files in Visual Studio Code.
-Run the relevant Python program using the terminal.
+Running the Programs:               
+Clone the GitHub repository. Switch to the branch containing the exercise you want to run. Open the Python files in Visual Studio Code then run the Python program using the terminal or by pressing run.
