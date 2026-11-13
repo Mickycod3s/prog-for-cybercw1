@@ -2,7 +2,7 @@ Programming for Cybersecurity Coursework 1
 
 Student Details
 - Name: Michael McClay
-- Campus: Lanarkshire
+- Campus: Lanar24th2htkshire
 - Banner ID: B01886622
 
 About This Coursework
