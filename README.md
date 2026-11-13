@@ -1,7 +1,7 @@
 Programming for Cybersecurity Coursework 1
 -----------------
 Name: Michael McClay         
-Campus: Lanarkshire         
+Campus: New College Lanarkshire         
 Banner ID: B01886622           
 
 Task - security event logger
