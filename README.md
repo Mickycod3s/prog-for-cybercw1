@@ -48,10 +48,10 @@ GitHub
 
 Repository Branches:
 main
-security-tool
-security-event-logger
-ip-address-validator
-security-incident-manager
+security-tool,
+security-event-logger,
+ip-address-validator,
+security-incident-manager,
 cyber-security-utilities
 
 Running the Programs:
