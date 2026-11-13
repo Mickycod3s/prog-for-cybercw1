@@ -59,6 +59,3 @@ Clone the GitHub repository.
 Switch to the branch containing the exercise you want to run.
 Open the Python files in Visual Studio Code.
 Run the relevant Python program using the terminal.
-
-Author
-Michael McClay
