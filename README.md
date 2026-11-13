@@ -42,9 +42,8 @@ A collection of reusable Python functions organised into a separate module. Incl
 
 
 Technologies Used:
-Python 
-Visual Studio Code
-Git
+Python, 
+Visual Studio Code,
 GitHub
 
 Repository Branches:
