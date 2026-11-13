@@ -9,6 +9,7 @@ About This Coursework
 This repository contains the five Python exercises for programming coursework 1.
 
 Tasks
+-------
 
 1. Security Tool
 
