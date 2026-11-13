@@ -1,15 +1,3 @@
-#You are creating a program that stores and updates information about a security
-#incident.
-#1. Create a dictionary containing a username, IP address, event type and risk
-#level.
-#2. Display the username and IP address.
-#3. Add a new field called status.
-#4. Update the risk level.
-#5. Remove one field from the dictionary.
-#6. Display all remaining keys and values.
-#7. Display the total number of key-value pairs.
-#8. Add appropriate comments in the code for better readability. 
-
 #Michael McClay
 #B01886622
 #CourseWork 1 Security Incident Manager
