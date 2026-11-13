@@ -2,12 +2,11 @@ Programming for Cybersecurity Coursework 1
 
 Student Details
 - Name: Michael McClay
-- Campus: Lanarkshire
+- Campus: New College Lanarkshire
 - Banner ID: B01886622
 
 About This Coursework
-This repository contains five Python exercises
-based on programming for cybersecurity.
+This repository contains the five Python exercises for programming coursework 1.
 
 Tasks
 
