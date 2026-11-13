@@ -1,4 +1,5 @@
 Programming for Cybersecurity Coursework 1
+-----
 
 - Name: Michael McClay
 - Campus: New College Lanarkshire
